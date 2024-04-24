@@ -1,5 +1,5 @@
 # 🎹 Piano Virtual
-
+https://github.com/skypse/Projeto-13-JavaScript-Piano/assets/97822775/83365d88-f416-4b8e-91a3-f7f75a708c16
 
 Um simples piano virtual construído com HTML, CSS e JavaScript. Este projeto permite tocar notas musicais clicando nas teclas brancas e pretas, reproduzindo sons correspondentes a cada tecla.
 
